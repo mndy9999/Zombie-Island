@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\putin\desktop\zombieisland\zombieisland\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+c:\users\putin\desktop\zombieisland\zombieisland\source.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ZombieIsland.vcxproj -> C:\Users\Putin\Desktop\ZombieIsland\Debug\ZombieIsland.exe
+  ZombieIsland.vcxproj -> C:\Users\Putin\Desktop\ZombieIsland\Debug\ZombieIsland.pdb (Partial PDB)
